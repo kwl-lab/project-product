@@ -1,0 +1,13 @@
+# Arduino / PlatformIO build artifacts
+build/
+dist/
+.pio/
+.pioenvs/
+
+# IDE
+.vscode/
+*.code-workspace
+
+# OS
+Thumbs.db
+.DS_Store
